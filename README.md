@@ -3,7 +3,9 @@ Bonjour,
 Actuellement au Magistère de Mathématiques d'Orsay. 
 Je suis passioné de mathématiques, d'informatique théorique et d'optimisation. C'est ici que mes projets seront répertoriés.
 
-Compétences: LaTeX, SageMath, python, Ocaml, C
+Compétences: 
+
+LaTeX, SageMath, python, Ocaml, C
 
 Vous pouvez me contacter par: 
 
@@ -15,4 +17,5 @@ Parcours :
 ->L3 Magistère de Mathématiques d'Orsay
 
 Centres d’intérêt: 
+
 -vélo, course à pied, lecture et écriture
