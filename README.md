@@ -14,7 +14,10 @@ Mail -> dorianpadovan@protonmail.com
 Parcours : 
 
 ->Lycée Joffre CPGE MP2I et MPI*
+
 ->L3 Magistère de Mathématiques d'Orsay
+
+->M1 Maths fondamentales et applications (avec le magistère)
 
 Centres d’intérêt: 
 
